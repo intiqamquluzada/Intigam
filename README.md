@@ -1,5 +1,5 @@
 
-!logo[https://4kwallpapers.com/images/wallpapers/samurai-katana-warrior-immortal-sun-silhouette-black-5120x2880-7471.png)
+![logo]https://4kwallpapers.com/images/wallpapers/samurai-katana-warrior-immortal-sun-silhouette-black-5120x2880-7471.png)
 <h1 align="center">Hi 👋, I'm Intigam Guluzade</h1>
 <h3 align="center">Backend developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
