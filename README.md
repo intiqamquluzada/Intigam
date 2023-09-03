@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Intigam Guluzade</h1>
 <h3 align="center">Backend developer</h3>
-<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--g1HuidbV--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4a6t7pmm323uaz9rv1rf.png">
+<img align="right" alt="coding" width="400" src="[https://res.cloudinary.com/practicaldev/image/fetch/s--g1HuidbV--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4a6t7pmm323uaz9rv1rf.png](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)">
 - 🌱 I’m currently learning **React and FastAPI**
 
 - 💬 Ask me about **Python, Django, REST API**
