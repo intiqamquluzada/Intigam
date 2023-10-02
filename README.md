@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Multipurpose website**
+- 🔭 I’m currently working on **Blog api, full-stack project** same time
 
 - 🌱 I’m currently learning **React and FastAPI**
 
