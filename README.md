@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on private project
+- 🔭 I’m currently working on some private projects
 
-- 🌱 I’m currently learning **React and FastAPI**
+- 🌱 I’m currently learning **FastAPI**
 
 - 💬 Ask me about **Python, Django, REST API**
 
