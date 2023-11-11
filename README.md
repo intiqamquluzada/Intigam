@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intiqamquluzada&label=Profile%20views&color=0e75b6&style=flat" alt="intiqamquluzada" /> </p>
 
 
-
 - 🔭 I’m currently working on some private projects
 
 - 🌱 I’m currently learning **FastAPI**
