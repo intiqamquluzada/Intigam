@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on mobile app backend side
 
-- 🌱 I’m currently learning **SaaS**
+- 🌱 I’m currently learning **SaaS** development
 
 - 💬 Ask me about **Python, Django, REST API**
 
