@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intiqamquluzada&label=Profile%20views&color=0e75b6&style=flat" alt="intiqamquluzada" /> </p>
 
 
-- 🔭 I’m currently working on mobile app backend side
+- 🔭 I’m currently working on freelance project
 
 - 🌱 I’m currently learning **SaaS** development
 
