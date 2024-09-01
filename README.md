@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intiqamquluzada&label=Profile%20views&color=0e75b6&style=flat" alt="intiqamquluzada" /> </p>
 
-- 💬 Ask me about **Python, Django, REST API**
+- 💬 Ask me about **Python, Django, FastAPI, REST API**
 
 - 📫 How to reach me **quluzadintiqam@gmail.com**
 
